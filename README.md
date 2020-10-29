@@ -5,4 +5,5 @@
 
 * lasanha
 * polenta
+* feijão
 
