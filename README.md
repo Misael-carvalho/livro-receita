@@ -1,4 +1,8 @@
- livro de receitas
-olá, bem vindo ao meu livro de receitas
-. lasanha
-. polenta
+# livro de receitas :book:
+
+
+###  olá, :smiley: bem vindo ao meu livro de receitas :smiley:
+
+* lasanha
+* polenta
+
